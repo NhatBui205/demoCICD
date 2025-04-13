@@ -3,7 +3,7 @@ package com.poly;
 public class Calculator implements Icalculator {
 
 	public Integer sum(Integer a, Integer b) {
-		return 0;
+		return a/b;
 	}
 	
 	
